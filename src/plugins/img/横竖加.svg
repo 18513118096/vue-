@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="64px" viewBox="0 0 40 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-45.000000, -46.000000)" fill-rule="nonzero">
+            <path d="M77,77 L77,73 L78,73 L78,77 L82,77 L82,78 L78,78 L78,82 L77,82 L77,78 L73,78 L73,77 L77,77 Z M83.2625,70 L71.7375,70 C70.7779052,70 70,70.7779052 70,71.7375 L70,83.275 C70.0068686,84.2297096 70.7827657,85.0000247 71.7375,85 L83.275,85 C84.2297096,84.9931314 85.0000247,84.2172343 85,83.2625 L85,71.7375 C85,70.7779052 84.2220948,70 83.2625,70 Z M83.9871921,83.4102564 C83.9871921,83.5666661 83.9251198,83.7166697 83.8146304,83.8272681 C83.704141,83.9378665 83.5542852,84 83.3980296,84 L71.5891626,84 C71.4329069,84 71.2830511,83.9378665 71.1725617,83.8272681 C71.0620723,83.7166697 71,83.5666661 71,83.4102564 L71,71.5897436 C71,71.2640372 71.2637771,71 71.5891626,71 L83.4108374,71 C83.7362229,71 84,71.2640372 84,71.5897436 L83.9871921,83.4102564 Z" id="Shape-Copy-25" fill="#999999"></path>
+            <polygon id="Line-Copy-28" fill="#DDDDDD" points="45 46 46 46 46 110 45 110"></polygon>
+            <polygon id="Line-Copy-24" fill="#DDDDDD" transform="translate(58.000000, 77.500000) rotate(-90.000000) translate(-58.000000, -77.500000) " points="57.5 65.5 58.5 65.5 58.5 89.5 57.5 89.5"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,147 @@
+{
+  "data":[
+    {
+        "id":1,
+        "value1": "光电缆政治工区域",
+        "value2": "wertyukjhg",
+        "value3": "启用",
+        "value4": "2018-05-03 09:30:15",
+        "value5": "男",
+        "value6": "黄石通信车间",
+        "value7": "主任",
+        "status":true
+    },
+    {
+      "id":2,
+      "value1": "光电缆政治工区域",
+      "value2": "wertyukjhg",
+      "value3": "启用",
+      "value4": "2018-05-03 09:30:15",
+      "value5": "男",
+      "value6": "黄石通信车间",
+      "value7": "主任",
+      "status":true
+  },
+  {
+    "id":3,
+    "value1": "光电缆政治工区域",
+    "value2": "wertyukjhg",
+    "value3": "启用",
+    "value4": "2018-05-03 09:30:15",
+    "value5": "男",
+    "value6": "黄石通信车间",
+    "value7": "主任",
+    "status":true
+},
+{
+  "id":4,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":false
+},
+{
+  "id":5,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":6,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":7,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":false
+},
+{
+  "id":8,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":9,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":10,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":false
+},
+{
+  "id":11,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":12,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+},
+{
+  "id":13,
+  "value1": "光电缆政治工区域",
+  "value2": "wertyukjhg",
+  "value3": "启用",
+  "value4": "2018-05-03 09:30:15",
+  "value5": "男",
+  "value6": "黄石通信车间",
+  "value7": "主任",
+  "status":true
+}
+  ]
+ }

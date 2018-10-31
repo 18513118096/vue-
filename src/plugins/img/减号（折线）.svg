@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="47px" viewBox="0 0 36 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>减号（折线）</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-92.000000, -32.000000)" fill-rule="nonzero">
+            <polygon id="Line-Copy-23" fill="#DDDDDD" points="104 49 105 49 105 78 104 78"></polygon>
+            <polygon id="Line-Copy-24" fill="#DDDDDD" transform="translate(116.000000, 77.500000) rotate(-90.000000) translate(-116.000000, -77.500000) " points="115.5 65.5 116.5 65.5 116.5 89.5 115.5 89.5"></polygon>
+            <path d="M100,41 L109,41 L109,42 L100,42 L100,41 Z M110.2625,34 L98.7375,34 C97.7779052,34 97,34.7779052 97,35.7375 L97,47.275 C97.0068686,48.2297096 97.7827657,49.0000247 98.7375,49 L110.275,49 C111.22971,48.9931314 112.000025,48.2172343 112,47.2625 L112,35.7375 C112,34.7779052 111.222095,34 110.2625,34 Z M110.987192,47.4102564 C110.987192,47.5666661 110.92512,47.7166697 110.81463,47.8272681 C110.704141,47.9378665 110.554285,48 110.39803,48 L98.5891626,48 C98.4329069,48 98.2830511,47.9378665 98.1725617,47.8272681 C98.0620723,47.7166697 98,47.5666661 98,47.4102564 L98,35.5897436 C98,35.2640372 98.2637771,35 98.5891626,35 L110.410837,35 C110.736223,35 111,35.2640372 111,35.5897436 L110.987192,47.4102564 Z" id="Shape-Copy-22" fill="#999999"></path>
+        </g>
+    </g>
+</svg>

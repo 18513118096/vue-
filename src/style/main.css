@@ -1,0 +1,419 @@
+.main{
+    background: #fff;
+    padding: 20px 20px 196px 20px;
+}
+/* .el-main{
+    padding: 0px;
+} */
+.topNav .titleBar,.container .titleBar,.left_aside .titleBar{
+    font-size: 18px;
+    color: #333333;
+    height: 23px;
+    font-weight: bold;
+    padding-left: 12px;
+    position: relative;
+    margin-bottom: 16px;
+}
+.topNav .titleBar::before,.container .titleBar::before,.left_aside .titleBar::before{
+    content: "";
+    height: 19px;
+    width: 4px;
+    background: #0B74B9;
+    position: absolute;
+    left: 0px;
+    top: 4px;
+}
+.topNav .action_but{
+   position: absolute;
+   left: 50%;
+   margin-left: -126px;
+   margin-top: 16px;
+}
+.topNav .action_but span{
+    text-align: center;
+    border-radius: 3px;
+    font-size: 14px;
+    display: inline-block;
+}
+.rightAction_but .addUser{
+    width: 104px;
+    margin-right: 12px;
+}
+.topNav .action_but span:hover{
+    cursor: pointer;
+}
+.action_but .resetting{
+border: 1px solid #0B74B9;
+color: #0B74B9;
+height: 28px;
+line-height: 28px;
+width: 94px;
+}
+.action_but .searching{
+    background-color: #0B74B9;
+    color: #fff;
+    height: 30px;
+    line-height: 30px;
+    width: 96px;
+}
+.container{
+    padding-top: 20px;
+}
+.container .outExcel{
+    text-align: right;
+}
+.container .rightAction_but{
+    float: right;
+    margin-top: -10px;
+    margin-bottom: 6px;
+}
+.container .rightAction_but.storeRight_but{
+    margin-top: 17px;
+}
+.container .left_ComName{
+    float: left;
+    margin-top: 25px;
+    font-size: 16px;
+}
+.container .rightAction_but span{
+    height: 30px;
+    line-height: 30px;
+    color: #FFFFFF;
+    letter-spacing: 0.31px;
+    border-radius: 3px;
+    font-size: 14px;
+    position: relative;
+}
+.container .rightAction_but .outExcel,.container .rightAction_but .newBuild{
+    width: 80px;
+}
+.container .rightAction_but .delete{
+    width: 78px;
+    height: 28px;
+}
+.container .rightAction_but .outExcel::before,.container .rightAction_but .addUser::before,.container .rightAction_but .delete::before,.container .rightAction_but .newBuild::before{
+    content: "";
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    background-size: contain;
+    left: 14px;
+    top: 8px;
+}
+.container .rightAction_but .outExcel::before{
+    background:url("../../src/assets/outExcel.svg");
+}
+.rightAction_but .addUser::before,.container .rightAction_but .newBuild::before{
+    background:url("../../src/assets/adduser.svg");
+}
+.container .rightAction_but .delete::before{
+    background:url("../../src/assets/delete.svg");
+}
+.container .rightAction_but  b{
+    position: absolute;
+    left: 36px;
+    letter-spacing: 0.31px;
+    font-weight: 100;
+}
+.container .rightAction_but  .delete b{
+    color: #0b74b9;
+}
+.container .rightAction_but .addUser b{
+    left: 34px;
+}
+table, tr {
+    width: 100%;
+    border-collapse: collapse;
+    position: relative;
+    font-size: 12px;
+    border-color: rgba(119, 197, 236, 0.48);
+    -ms-word-break: break-all;
+    word-break: break-all;
+    height: 35px;
+    line-height: 35px;
+}
+table td,table tr th{
+    color: #333333!important;
+    font-size: 14px;
+    text-align: center;
+    border: thin solid #dddddd;
+}
+table tr th{
+    background: #f2f2f2!important;
+}
+table tr th:nth-child(1),table tr td:nth-child(1){
+    width: 35px;
+    text-align: center;
+}
+table tr:nth-child(odd){
+    background: #F9F9F9;
+}
+table tr:nth-child(even){
+    background-color: #ffffff;
+}
+table .tableDetail::before{
+    content: url("../../src/assets/detail.svg");
+    width: 14px;
+    height: 14px;
+    position: relative;
+    left: -5px;
+    top: 3px;
+}
+table .editDetail::before{
+    content: url("../../src/assets/edit.svg");
+    width: 14px;
+    height: 14px;
+    position: relative;
+    left: -5px;
+    top: 3px;
+}
+table .tableDetail:hover,table .editDetail:hover{
+    color: #0b74b9!important;
+    cursor: pointer;
+}
+table .editDetail:hover::before{
+    content: url("../../src/assets/edithover.svg");
+    cursor: pointer;
+}
+table .tableDetail:hover::before{
+    content: url("../../src/assets/hoverDetail.svg");
+    cursor: pointer;
+}
+.el-pagination{
+    float:right;
+  }
+  .list_line .el-select,.list_line .el-select .el-input.el-input--suffix,.list_line .el-select div,input.el-input__inner{
+    height: 28px!important;
+    line-height: 28px!important;
+    width: 220px;
+}
+input.el-input__inner{
+    padding-left: 8px;
+}
+.el-checkbox__inner::after {
+    left: 3px;
+    top: 1px;
+}
+.list_child .el-icon-arrow-up:before{
+        content: url("../../src/assets/optionDown.svg");
+        position: relative;
+        top: 43px;
+      left: 0px;
+}
+.list_child .el-icon-arrow-up.is-reverse:before{
+top: -5px;
+left: -8px;
+}
+.pointer:hover{cursor: pointer;}
+.topNav  .searchBar{
+    border: 1px solid #DDDDDD;
+    padding-top: 36px;
+    padding-bottom: 82px;
+    text-align: center;
+    color: #333333;
+    font-size: 16px;
+}
+.topNav  .searchBar .list_line .list_child span,span.spanStyle{
+    width: 80px;
+    text-align: right;
+    margin-right: 2px;
+}
+ input.inputStyle{
+    width: 210px;
+    border: 1px solid #dddddd;
+    height: 26px;
+    line-height: 26px;
+    padding-left: 8px;
+    border-radius: 2px;
+}
+input[type='checkbox']{
+    width: 14px;
+    height: 14px;
+    background: url("../../src/assets/select.svg")no-repeat center;
+    -webkit-appearance:none;
+    outline: none;
+    position: relative;
+    top: 2px;
+}
+.checkBox input[type=checkbox]:checked{
+   background: url("../../src/assets/unselect.svg")no-repeat center;
+}
+.el-switch__core{
+    height: 16px;
+}
+.el-switch__core:after {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100%;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    width: 14px;
+    height: 14px;
+    background-color: #fff;
+}
+.el-switch.is-checked .el-switch__core::after {
+    left: 100%;
+    margin-left: -14px;
+}
+.blueBgc{ background: #0B74B9;}
+.blueColor{color: #0b74b9!important;}
+.orangeColor{color: #FF8E00!important;}
+.blueBorder{color: #0B74B9;border: 1px solid #0B74B9;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.crumbs {
+    margin-bottom: 20px;
+}
+.pagination {
+    margin: 20px 0;
+    text-align: right;
+}
+
+.plugins-tips {
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
+
+.el-button+.el-tooltip {
+    margin-left: 10px;
+}
+
+.el-table tr:hover {
+    background: #f6faff;
+}
+
+.mgb20 {
+    margin-bottom: 20px;
+}
+
+.move-enter-active,
+.move-leave-active {
+    transition: opacity .5s;
+}
+
+.move-enter,
+.move-leave {
+    opacity: 0;
+}
+
+
+/*BaseForm*/
+
+.form-box {
+    width: 600px;
+}
+
+.form-box .line {
+    text-align: center;
+}
+
+.el-time-panel__content::after,
+.el-time-panel__content::before {
+    margin-top: -7px;
+}
+
+.el-time-spinner__wrapper .el-scrollbar__wrap:not(.el-scrollbar__wrap--hidden-default) {
+    padding-bottom: 0;
+}
+
+
+/*Upload*/
+
+.pure-button {
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.g-core-image-corp-container .info-aside {
+    height: 45px;
+}
+
+.el-upload--text {
+    background-color: #fff;
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    box-sizing: border-box;
+    width: 360px;
+    height: 180px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.el-upload--text .el-icon-upload {
+    font-size: 67px;
+    color: #97a8be;
+    margin: 40px 0 16px;
+    line-height: 50px;
+}
+
+.el-upload--text {
+    color: #97a8be;
+    font-size: 14px;
+    text-align: center;
+}
+
+.el-upload--text em {
+    font-style: normal;
+}
+
+
+/*VueEditor*/
+
+.ql-container {
+    min-height: 400px;
+}
+
+.ql-snow .ql-tooltip {
+    transform: translateX(117.5px) translateY(10px) !important;
+}
+
+.editor-btn {
+    margin-top: 20px;
+}
+
+
+/*markdown*/
+
+.v-note-wrapper .v-note-panel {
+    min-height: 500px;
+}
+
+ul.el-menu.el-menu--inline {
+    padding-left: 20px;
+}
